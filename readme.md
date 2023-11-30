@@ -9,3 +9,4 @@ The app scans the files extensions and sorts them following the way
 - [X] Windows
 - [ ] Linux ``` (unknown) ```
 - [ ] MacOS ``` (unknown) ```
+### My work helped you? Hit a star!
